@@ -122,11 +122,7 @@ Khi xuất hiện địa chỉ của contract, hãy thay thế vào CONTRACT_ADD
    ```sh
    cd frontend
    ```
-2. Cài đặt dependencies:
-   ```sh
-   npm install
-   ```
-3. Chạy ứng dụng:
+2. Chạy ứng dụng:
    ```sh
    npm run dev
    ```
